@@ -16,7 +16,7 @@ For this project, I was interestested in using the data of Glassdoor data job li
 
 1. What data job pays the highest?
 2. Where are the job opportunities (Industry, location)?
-3. What are the degree requirement for different job title?
+3. What are the degree requirements for different data jobs?
 4. What are employers' most desired skills?
 
 ## File Descriptions <a name="files"></a>
