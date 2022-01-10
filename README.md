@@ -26,7 +26,7 @@ There are four csv files containing the data used in this project.
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found at the post available [here](url link to be added here).
+The main findings of the code can be found at the post available [here](https://medium.com/@xiaoqi.zhang963/considering-a-career-in-data-a882dbc5851b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
